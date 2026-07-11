@@ -15,4 +15,4 @@ Includes live status, progress bar, full error handling, and one-click sample da
 ## How to Run
 ```bash
 pip install pandas openpyxl
-python day77_excel_data_processor_gui.py
+python Day77_Excel_Data_Processor_Gui.py
